@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/ciaolink/neomedbo/BuildConfig.java
+ com.ciaolink.neomedbo.BuildConfig
